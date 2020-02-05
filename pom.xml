@@ -8,7 +8,7 @@
     <artifactId>shiro</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <shrio.vserion>1.1.0</shrio.vserion>
+        <shrio.vserion>1.4.2</shrio.vserion>
         <slf4j.vserion>1.1.0</slf4j.vserion>
     </properties>
     <parent>
